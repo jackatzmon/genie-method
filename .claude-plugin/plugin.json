@@ -1,0 +1,9 @@
+{
+    "name": "genie-method",
+    "version": "1.0.0",
+    "description": "The Genie Method: Written by a medical professional for doctors, lawyers, plumbers, trainers, and anyone who isn't a developer. A proven system to build real apps and write complete books with AI — no coding required. Front-loads all thinking into a blueprint, then generates step-by-step instructions AI can execute with near-zero errors. Two skills: spec-to-scripts (build apps) and write-to-publish (write books, reports, and documents).",
+    "author": {
+          "name": "Jack Atzmon, DC"
+    },
+    "keywords": ["vibe-coding", "app-building", "book-writing", "spec", "scripts", "modules", "genie-method", "no-code", "non-technical"]
+}
